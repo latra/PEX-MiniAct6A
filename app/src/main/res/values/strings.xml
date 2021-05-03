@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Miniact6</string>
+    <string name="connected">Mobile connected!</string>
+    <string name="wifi_connected">Wifi connected!</string>
+    <string name="no_connected">No network operating connected!</string>
+    <string name="loading">Loading…</string>
+
+</resources>
